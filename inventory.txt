@@ -1,0 +1,5 @@
+ID,Name,Price,Quantity
+1001,5 Star,5,90
+1002,Dairy Milk,5,70
+1003,Kit Kat,25,70
+1004,Milky Bar,30,60
