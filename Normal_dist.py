@@ -1,7 +1,8 @@
-import plotly.figure_factory as ff
+import streamlit as st
 import numpy as np
 from matplotlib import pyplot as plt
-import streamlit as st
+from plotly import figure_factory as ff
+
 
 
 st.set_page_config(page_title="Visualization",page_icon="logo.png",layout="wide",initial_sidebar_state='auto')
